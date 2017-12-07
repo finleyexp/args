@@ -1,3 +1,10 @@
+Args are based on CryptoNote. 
+
+
+The rest of this README is an unaltered fork from the CryptoNote GitHub repository. Use these instructions if you're interested in creating your own cryptocurrency or in running CryptoNote or Args nodes. 
+
+___
+
 This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
 
 * Launch your own CryptoNote currency: [CryptoNote Starter](https://cryptonotestarter.org/)
