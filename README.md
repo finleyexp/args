@@ -4,16 +4,12 @@ Args is a CryptoNote-based blockchain used by the Pir8s in [The Pu'Shing Bhu'Ton
 ## If you build it...
 This repository contains the reference code for Args. 
 
-## FYI
-I may be able to offer some help, but honestly, the folks at CryptoNote Foundation have much deeper understanding of their software. I'm a blogger and poet who likes code. Forking CryptoNote and tweaking its code to create Args is right in my skillset. Meanwhile, delving into the finer aspects of making a cryptocurrency from scratch that also functions properly is best left to those code poets that don't cringe when they hear the word, "algorithm."
-
 ## Support Args and The Pu'Shing Bhu'Tons Series development
-Here's 5 ways to support Args and Pu'Shing Bhu'Tons:
-1. Hashpower Donations: Run the Pu'Shing Bhu'Tons [Coinhive miner](https://authedmine.com/media/miner.html?key=QiGcuY1Cz6tFrHcMOyoBXjqAJs5ViJCZ) while you surf the internet.
-2. Tech Donations: Leave your comments, questions, and suggestions in the [pull requests](https://github.com/finleyexp/Args/pulls). 
-3. Monero: 44EfHnnajJmab6xvUmkWRda26rgfwvQHeHFmWDi48gzV6Zztn7iPkdDMn6FjSLZN12XrRd5PtWb2UeykmbWLWBnRLR6t2sv
-4. Bitcoin / Bitcoin Cash: 13mpxrvYfrVwPFkpMvUZfRCrViYFj7yXRj
-5. Ethereum: 0x7530e6d7f3ee146222c9a0727c3b1007439fbfd7
+Here's 4 ways to support Args and Pu'Shing Bhu'Tons:
+1. Tech Donations: Leave your comments, questions, and suggestions in the [pull requests](https://github.com/finleyexp/Args/pulls). 
+2. Monero: 44EfHnnajJmab6xvUmkWRda26rgfwvQHeHFmWDi48gzV6Zztn7iPkdDMn6FjSLZN12XrRd5PtWb2UeykmbWLWBnRLR6t2sv
+3. Bitcoin / Bitcoin Cash: 13mpxrvYfrVwPFkpMvUZfRCrViYFj7yXRj
+4. Ethereum: 0x7530e6d7f3ee146222c9a0727c3b1007439fbfd7
 
 NOTE
 The rest of this README is an unaltered fork from the CryptoNote GitHub repository. Use these instructions if you're interested in creating your own cryptocurrency or in running CryptoNote or Args nodes. 
